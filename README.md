@@ -28,4 +28,5 @@ I chose the Area Graph, however, because I appreciate the sublteness in the slop
 
 # Original Data Visualation for Critique
 Simmons Research Releases News Media Trust Index, Source: MRI Simmons Research
+I selected this data visualization because it was a topic I understood and a visualization that was simple enough it the message it conveyed and the opportunities for improvement that it would be a task I could tackle in the short amount of time I had to dedicate to it. 
 <div class="infogram-embed" data-id="276787a2-ff55-457f-9a29-c0a8267b8b29" data-type="interactive" data-title="News Media Trust Rankings 2018"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script>
