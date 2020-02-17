@@ -12,7 +12,7 @@ I would like to learn how to take messy, complex data and visualize it to novice
 # Final Project
 
 [Final Project Part 1](/finalprojectpart1.md)
-[Final Project PArt 2](/finalprojectpart2.md)
+[Final Project Part 2](/finalprojectpart2.md)
 
 # OECD Spanish Speaking Countries - General Government Debt as a % of GDP
 https://github.com/mrcalebbanks/Portfolio/blob/master/OECD%20Data%20Visualizations
